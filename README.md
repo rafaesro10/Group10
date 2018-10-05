@@ -1,10 +1,10 @@
 
-Nombre: Eric Mozo Ruiz			Github: Eric2790
+Nombre: Eric Mozo Ruiz					Github: eric2790
 
-Nombre: Ignacio de Frutos Tello		Github: fitigh91
+Nombre: Ignacio de Frutos Tello			Github: fitigh91
 
-Nombre: 		Github: 
+Nombre: Rafael Escribano Romero			Github: rafaesro10
 
-Nombre: 		Github: 
+Nombre: Cristian Sandoval Zúñiga		Github:  cenriquesz
 
-Nombre: 		Github: 
+Nombre: Alejandro Sánchez Sebastián		Github: alexsan4d
