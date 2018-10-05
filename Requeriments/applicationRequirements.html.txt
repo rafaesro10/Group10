@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title> applicationRequirements </title>
+  </head>
+  <body>
+    <h1> Application Requirements </h1>
+    <features>
+      <p> 1. .</p>
+      <p> 2. .</p>
+      <p> 3. .</p>
+      <p> 4. .</p>
+    </features>
+  </body>
+</html>
